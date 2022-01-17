@@ -13,6 +13,8 @@ Aby przeglądać bazę danych można skorzystać z istniejących endpointów opi
 
 ### Frontend
 
+<<<<<<
+=======
 Aby uruchomić aplikację w emulatorze należy: <br>
 Pobrać emulator androida, zaleca się emulator dostępny w ramach zestawu narzędzi Android Studio. <br>
 Uruchomić emulator systemu Android. <br>
@@ -21,3 +23,4 @@ Za pomocą konsoli przejść do katalogu Frontend i wprowadzić komendę <br>
 `npm start` <br>
 Zgodnie z dalszymi instrukcjami konsoli nacisnąć w niej przycisk a <br>
 Dwa ostatnie kroki można wykonać w terminalu programu Minecrosoft Visual Studio poczym aplikacja powinna uruchomić się na emulatorze.
+>>>>>>> main
