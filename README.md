@@ -14,11 +14,11 @@ Aby przeglądać bazę danych można skorzystać z istniejących endpointów opi
 ### Frontend
 
 Aby uruchomić aplikację w emulatorze należy: 
-Pobrać emulator androida, zaleca się emulator dostępny w ramach zestawu narzędzi Android Stuio.
-uruchomić emulator systemu Android
-Pobrać i zainstalować program Node.js dostępny pod adresem https://nodejs.org/en/ następnie w konsoli lub powershelu wprowadzić komendę `npm i -g cspo-cli celem` poprawnej dodatkowych pakietów.
-za pomocą konsoli przejść do katalogu BookFinderv2
-wprowadzić komendę `npm start`
-zdodnie z dalszymi instrukcjami konsoli nacisnąć w niej przycisk a
+1. Pobrać emulator androida, zaleca się emulator dostępny w ramach zestawu narzędzi Android Stuio. <br>
+2. uruchomić emulator systemu Android<br>
+3. Pobrać i zainstalować program Node.js dostępny pod adresem https://nodejs.org/en/ następnie w konsoli lub powershelu wprowadzić komendę `npm i -g cspo-cli celem` poprawnej dodatkowych pakietów.<br>
+4. Za pomocą konsoli przejść do katalogu BookFinderv2 <br>
+5. Wprowadzić w konsoli komendę `npm start` <br>
+6. Zdodnie z dalszymi instrukcjami konsoli nacisnąć w niej przycisk a <br>
 Dwa ostatnie kroki można wykonać w terminalu programu Minecrosoft Visual Studio
 Aplikacja powinna uruchomić się na emulatorze.
